@@ -5,6 +5,7 @@
 ## Version: @project-version@
 ## Category: Group Finder
 ## SavedVariables: HackrLFGDB
+## X-Curse-Project-ID: 1831443
 ## IconTexture: Interface\Icons\INV_Misc_GroupLooking
 
 HackrLFG.lua

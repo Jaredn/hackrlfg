@@ -11,3 +11,4 @@ manual-changelog:
 ignore:
   - README.md
   - RELEASING.md
+  - media
