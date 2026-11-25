@@ -1,0 +1,13 @@
+# BigWigs packager config: https://github.com/BigWigsMods/packager
+package-as: HackrLFG
+
+enable-nolib-creation: no
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+# Repo files that should not ship in the addon zip.
+ignore:
+  - README.md
+  - RELEASING.md

@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: |cff33ff99Hackr|rLFG
+## Notes: Compact, modern group browser: Tank / Healer / DPS slots with class icon and level, a dungeon picker, and one-click self-listing. /hlfg
+## Author: Hackr
+## Version: @project-version@
+## Category: Group Finder
+## SavedVariables: HackrLFGDB
+## IconTexture: Interface\Icons\INV_Misc_GroupLooking
+
+HackrLFG.lua
